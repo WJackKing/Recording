@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">AA记账</string>
+    <string name="index_button">统计</string>
+    <string name="add_button">添加</string>
+    <string name="delete_button">删除</string>
+    <string name="save_button">存入</string>
+    <string name="spend_button">消费</string>
+    <string name="select_button">全选</string>
+    <string name="sure_button">确认</string>
+    <string name="report">生成报表</string>
+    <string name="spend_hint">消费</string>
+    <string name="statistics_hint">统计</string>
+    <string name="member_hint">成员</string>
+    <string name="member_name">姓名</string>
+    <string name="member_money">金额</string>
+    <string name="member_sex">性别</string>
+    <string name="member_man">男</string>
+    <string name="member_woman">女</string>
+    <string name="person_money">金额</string>
+    <string name="person_note">备注</string>
+    <string name="spend_money">消费金额</string>
+</resources>
